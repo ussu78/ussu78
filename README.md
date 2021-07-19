@@ -1,4 +1,4 @@
-<img src="https://github.com/ussu78/githup-readme-picture/blob/main/Devops-frame.png" >
+<img src="https://github.com/ussu78/Images/blob/main/Devops-frame.png" >
 
 
 
