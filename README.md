@@ -12,7 +12,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning AWS, Linux Plus, Computer Network.
+- 🌱 I’m currently learning AWS, Linux Plus, Computer Network, Cloud Formation, Docker, Kubernetes, Terraform.
 - ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
 - You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
 - ✨ Enthusiastic DevOps eager to contribute to team success through hard work, 
