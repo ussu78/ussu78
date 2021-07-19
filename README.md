@@ -2,22 +2,22 @@
 
 
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussu78&show_icons=true&theme=onedark)<br>
+
+
+
+
+
+
+
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussu78&show_icons=true&theme=onedark)<br>
 
+- 🌱 I’m currently learning AWS, Linux Plus, Computer Network.
+- ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
+- You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
+- ✨ Enthusiastic DevOps eager to contribute to team success through hard work, 
+- Attention to detail and excellent organizational skills. 
+- ✨ Believes in the importance of learning new things every day. 
+- A lifelong learner. 
+- ✨ Motivated to learn, grow and excel in IT industry.
 
-
-<!--
-**ussu78/ussu78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
